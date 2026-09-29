@@ -56,7 +56,7 @@ This repository tracks top **SaaS platforms** and **open-source software** for *
 
 > Open-source CMDB software provides transparent relationship modeling, full data control, zero licensing fees, and extensible APIs for infrastructure engineering teams.
 
-| Open-Source Project | Description | GitHub Stars |
+| Open-Source Project | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[NetBox](https://github.com/netbox-community/netbox)** | Open-source network source of truth, IPAM, and DCIM platform serving as the primary infrastructure CMDB for network engineering. | [![Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers) |
 | **[Snipe-IT](https://github.com/snipe/snipe-it)** | Popular open-source IT asset management (ITAM) platform for software licenses, hardware lifecycles, and user assignments. | [![Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers) |
